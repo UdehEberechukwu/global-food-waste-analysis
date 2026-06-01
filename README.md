@@ -70,5 +70,3 @@ Power BI was used to build an interactive dashboard that explores food waste pat
 * Food_Waste_SQL_Scripts.sql
 * Food_Waste_Project Dashboard.pbix
 * Food_Waste_dashboard.png
-* Data Visualization
-* Insight Generation
