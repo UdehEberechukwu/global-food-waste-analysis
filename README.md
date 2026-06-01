@@ -1,5 +1,9 @@
 # Global Food Waste Analysis Dashboard
 
+## Dashboard Preview
+<img width="1295" height="722" alt="image" src="https://github.com/user-attachments/assets/4c87d7dd-8d95-4020-9543-05ccf84b76eb" />
+
+
 ## Project Overview
 
 This project analyzes global food waste patterns using data from the UNEP Food Waste Index.
@@ -59,5 +63,12 @@ Power BI was used to build an interactive dashboard that explores food waste pat
 * Exploratory Data Analysis (EDA)
 * KPI Development
 * Dashboard Design
+
+## Repository Files
+
+* README.md
+* Food_Waste_SQL_Scripts.sql
+* Food_Waste_Project Dashboard.pbix
+* Food_Waste_dashboard.png
 * Data Visualization
 * Insight Generation
